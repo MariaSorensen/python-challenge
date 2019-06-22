@@ -1,4 +1,4 @@
-# Python-Challenge - python scripts
+# Budget Data - python scripts
 ## PyBank
 This is a Python script for analyzing the financial records of a company. The financial data is called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
