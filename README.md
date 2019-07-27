@@ -2,7 +2,23 @@
 ## PyBank
 ![1-keyboard](Images/revenue-per-lead.jpg)
 
-This is a Python script for analyzing the financial records of a company. The financial data is called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
+#### This is a Python script for analyzing the financial records of a company to calculate each of the following:
+
+- The total number of months included in the dataset
+- The total net amount of "Profit/Losses" over the entire period
+- The average change in "Profit/Losses" between months over the entire period
+- The greatest increase in profits (date and amount) over the entire period
+- The greatest decrease in losses (date and amount) over the entire period
 
 ## PyPoll
-This Python script is used to help a small, rural town modernize its vote-counting process.
+![1-keyboard](Images/Vote_counting.jpg)
+
+#### This Python script is used to help a small, rural town modernize its vote-counting process.
+
+This Python script analyzes the votes and calculates each of the following:
+
+- The total number of votes cast
+- A complete list of candidates who received votes
+- The percentage of votes each candidate won
+- The total number of votes each candidate won
+- The winner of the election based on popular vote.
